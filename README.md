@@ -1,6 +1,8 @@
-# Bubs
+# GaiaMod
 
-Bubs is a Scratch 3.0 mod I'm currently working on, current features:
+GaiaMod is a mod of Penguinmod I'm currently working on, featuring:
 
-- HTTP GET block
-- JSON parse block
+- AI and IoT
+- New blocks
+- Color modes
+- And much more!
